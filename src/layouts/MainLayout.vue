@@ -51,6 +51,12 @@ import EssentialLink from 'components/EssentialLink.vue'
 
 const linksList = [
   {
+    title: "db todo list",
+    caption: "vue + database",
+    icon: "chat",
+    link: "/dbtodo",
+  },
+  {
     title: 'todo',
     caption: 'vue + store 실습',
     icon: 'home',
